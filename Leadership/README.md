@@ -1,4 +1,4 @@
-### [Back](/)
+### [Back](..)
 
 ### Undergraduate Student Government (USG)
 
