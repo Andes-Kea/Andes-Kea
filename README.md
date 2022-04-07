@@ -3,7 +3,8 @@ Always curious, I entered my college career with wide, longing eyes. Focused on 
 
 With an extensive background in leadership, I have built relationships all throughout my life. Focusing on developing my own skillset while giving back to my community, I pursued the role of Undergraduate Student Body President at DU. In this position, I have developed a skillset in how to prioritize, organize, and learn from mistakes all while balancing my pursuit of a degree in Business Information and Analytics and minors in Computer Science and Mathematics.
 
-###
+### Technical Experience
+
 
 <!--
 **Andes-Kea/Andes-Kea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
