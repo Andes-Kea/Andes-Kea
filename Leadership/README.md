@@ -8,3 +8,4 @@ Beginning in my second year, I became intrugued with joining
 
 
 ### President
+https://duclarion.com/2021/04/keanan-anderson-and-mason-estes-run-for-usg-president-and-vice-president/
