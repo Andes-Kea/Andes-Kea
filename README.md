@@ -15,13 +15,13 @@ When I’m not in class, office, or meetings, I can be found picking up a variet
 -	Acoustic Guitar
 -	Smash Brothers Ultimate (Random Main)
 
-
+Below are links to other folders discusissing relevant topics:
 
 ### [Technical Experience](TechnicalExperience/)
 
 ### [Leadership Experience](Leadership/)
 
-### [Global Experience](GlobalExperience/)
+### [Inclusive & Global Experience](GlobalExperience/)
 
 ### Personal Note
 All aspects of my college career have, especially after taking a larger leadership role, have incorporated critical thinking and ethical practices. It is never something I am or will be perfect at, but as Maya Angelou said, 
