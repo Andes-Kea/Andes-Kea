@@ -21,6 +21,7 @@ Within this position as President I have been able to reflect, analyze, and trul
 
 ### Sustainability
 
+During my term, the Chancellor of the University of Denver announced the commitment for DU to become Carbon Neutral by 2030 during his Inauguration. This set in to motion a Carbon Neutrality Task Force to which I became an active member of. With the mission of researching, and proposing a set plan for implementing the goal, I have seen on-hand the creation, deliberation, and project proposals for a large scale project. As one of the only student representatives sitting on the task force, I provided a necessary perspective and creative insights into activating the community. Through using other student organizations and recommending the elevation of the sustainability officer to reside under the Chancellor’s cabinet in DU’s hierarchy, the overall implementation of sustainable practices are now more cohesive and collective. 
 
 ### DEI
 
