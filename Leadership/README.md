@@ -9,6 +9,8 @@ A list including a sample of my responsibilities is included below:
 -	Aid in allocating and overseeing USG’s one-million-dollar budget.
 -	Represent the student body in all interactions.
 
+### Leading During COVID-19
+
 
 ### President
 
