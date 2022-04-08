@@ -31,6 +31,7 @@ Here are the outputted teams of the model. Together they represent the Predicted
 
 ### Tableau
 
+[Final Presentation](Murder%20--%20Final%20Project%20Anderson%2C%20Podgorny%2C%20and%20Shadrina%20fv.pdf) Culminating around murder rates across the United States.
 
 ### Power BI
 A culmination of my year long USFS database project, my Power BI exemplifies a variety of data visualization skills alonside a honed database. Below is my finalized Power BI interactive dashboard:
