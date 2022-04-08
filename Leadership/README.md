@@ -15,6 +15,13 @@ Through working with the DU COVID Coordinator, I helped make relevant, timely de
 
 I found it vital to maintain connections, no matter how difficult, during the pandemic. The connections we make with each other are what allow us to grow, learn, recover, and thrive. Taking away those connection aspects were difficult for everyone, that is why I also worked alongside DU Programming Board (DUPB)—an organization funded by USG focused around student engagement events—to create unique programs that allow for engagement from all students while also in a safe, and aware manner. 
 
+### Board of Trustees
+
+One of the many responsibilities of the Undergraduate Student Body President is to present in front of the Board of Trustees on a relevant topic an issue facing students. As I approached this presentation, I had to prioritize a singular topic out of the countless issues facing students. My topic of choice: Student Mental Health and Wellbeing. Due to its incredibly pertinent nature coming out of COVID-19, and a rise in mental health issues, lack of access, and overall decrease in wellbeing, I felt it my responsibility to advocate for the students of DU. I presented using survey data from a Campus Climate Survey conducted in 2020 and advocated for increased funding for DU’s Health and Counseling Center (HCC), localized therapy care, representation in counselors and services, education of students, and re-evaluation of the quarter system. 
+From this presentation, I successfully increased the funding being allocated to the HCC and increased efforts of hiring and retaining a more diverse staff of counselors and therapists. 
+You can find my presentation [here](/BoT)
+
+
 ### President
 
 
