@@ -1,5 +1,5 @@
-# Keanan Anderson
-### He/Him/His
+# Keanan Anderson <img src="/Assets/img/prof_pic.jpg" alt="drawing" width="200" align = "right"/>
+### He/Him/His 
 ### Major: Business Information & Analytics
 ### Minors: Computer Science & Mathematics
 ##
@@ -8,13 +8,13 @@ Always curious, I entered my college career with wide, longing eyes. Focused on 
 
 With an extensive background in leadership, I have built relationships all throughout my life. Focusing on developing my own skillset while giving back to my community, I pursued the role of Undergraduate Student Body President at DU. In this position, I have developed a skillset in how to prioritize, organize, and learn from mistakes all while balancing my pursuit of a degree in Business Information and Analytics and minors in Computer Science and Mathematics.
 
-<img src="/Assets/img/prof_pic.jpg" alt="drawing" width="200"/>
 
-### [Technical Experience](TechnicalExperience/README.md)
 
-### [Leadership Experience](Leadership/README.md)
+### [Technical Experience](TechnicalExperience/)
 
-### [Global Experience](GlobalExperience/README.md)
+### [Leadership Experience](Leadership/)
+
+### [Global Experience](GlobalExperience/)
 
 
 <!--
