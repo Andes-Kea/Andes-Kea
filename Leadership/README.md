@@ -25,6 +25,7 @@ During my term, the Chancellor of the University of Denver announced the commitm
 
 ### DEI
 
+[Technical Experience](..)
 
 ### Student Wellness & Engagement
 
