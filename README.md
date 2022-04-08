@@ -4,7 +4,7 @@
 #### keanana1@gmail.com || [Resume](Resume%202021%20Updated%201.pdf) || [LinkedIn](https://www.linkedin.com/in/keanan-anderson-curious/) || [Strenghts](StrengthInsightGallup.pdf)
 ##
 ### Who Am I
-Hi there, welcome to my portfolio! My name is Keanan Anderson. I’m from a small town called Pagosa Springs, CO and ventured up north to the University of Denver (DU) in which I am pursuing a degree in Business Information and Analytics with an intended graduation date of June 2022. I currently hold the honor and the position of DU’s Undergraduate Student Body President, fulfilling the student's priorities. 
+Hi there, welcome to my portfolio! My name is Keanan Anderson. I’m from a small town called Pagosa Springs, CO and ventured up north to the University of Denver (DU) in search of a higher calling. I am currently pursuing a degree in Business Information and Analytics with minors in Computer Science and Mathematics and an intended graduation date of June 2022. I currently hold the honor and the position of DU’s Undergraduate Student Body President, fulfilling the student's priorities. 
 
 I am an incredibly curious mind, always looking to challenge myself in any way possible. From my technical learning within the fields of analytics, computer science, and mathematics, combined with my experiential learning and leadership through Undergraduate Student Government, my core competencies have been cultured and challenged. 
 
