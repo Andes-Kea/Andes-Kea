@@ -8,6 +8,14 @@ Hi there, welcome to my portfolio! My name is Keanan Anderson. I’m from a smal
 
 I am an incredibly curious mind, always looking to challenge myself in any way possible. From my technical learning within the fields of analytics, computer science, and mathematics, combined with my experiential learning and leadership through Undergraduate Student Government, my core competencies have been cultured and challenged. 
 
+When I’m not in class, office, or meetings, I can be found picking up a variety of hobbies to which they change often. Here are some activities that have recently piqued my interest:
+-	Reading Sophist Philosophy
+-	Climbing / Bouldering
+-	Card Tricks
+-	Acoustic Guitar
+-	Smash Brothers Ultimate (Random Main)
+
+
 
 ### [Technical Experience](TechnicalExperience/)
 
