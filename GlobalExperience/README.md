@@ -1,3 +1,5 @@
+# Global and Inclusive Competence
+
 ### Inclusion & Equity
 My Global experience is wide and multi-variate. Though my study abroad experience was cut short and nullified by COVID-19 and my decision to pursue Student Body President, I still immersed myself throughout the cultures already existing at DU and Denver as a whole. 
 
