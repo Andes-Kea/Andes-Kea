@@ -11,6 +11,9 @@ A list including a sample of my responsibilities is included below:
 
 ### Leading During COVID-19
 
+Through working with the DU COVID Coordinator, I helped make relevant, timely decisions on what protective steps should be implemented for DU students. I was able to see first hand the incredibly hard working members of the DU community dedicated towards keeping our community safe. I’m honored to have lent even a small hand during times of struggle. With mask mandates, vaccination requirements, testing requirements, and a variety of other crucial information, I worked with USG to disseminate information to the student body. Also, during the peak of the pandemic (2019-2021), I wrote a resolution through USG to promote the implementation of a Pass Fail Option which was ultimately received and implemented by the University. This resolution highlighted the unique struggles that COVID-19 presented for students and aided in giving a form of relief during incredibly stressful times. 
+
+I found it vital to maintain connections, no matter how difficult, during the pandemic. The connections we make with each other are what allow us to grow, learn, recover, and thrive. Taking away those connection aspects were difficult for everyone, that is why I also worked alongside DU Programming Board (DUPB)—an organization funded by USG focused around student engagement events—to create unique programs that allow for engagement from all students while also in a safe, and aware manner. 
 
 ### President
 
