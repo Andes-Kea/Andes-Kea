@@ -27,11 +27,9 @@ Here are the outputted teams of the model. Together they represent the Predicted
 <img src = "https://user-images.githubusercontent.com/28812295/162224344-be25a927-22ed-41f6-9b37-636fc5ade866.png" width = "301" height = "625">
 
 
-
-
 ### Tableau
 
-[Final Presentation](Murder%20--%20Final%20Project%20Anderson%2C%20Podgorny%2C%20and%20Shadrina%20fv.pdf) Culminating around murder rates across the United States.
+[Final Presentation](Murder%20--%20Final%20Project%20Anderson%2C%20Podgorny%2C%20and%20Shadrina%20fv.pdf) Culminating around murder rates across the United States. (Morbid I know, but incredibly fascinating!)
 
 ### Power BI
 A culmination of my year long USFS database project, my Power BI exemplifies a variety of data visualization skills alonside a honed database. Below is my finalized Power BI interactive dashboard:
