@@ -1,5 +1,4 @@
-# Keanan Anderson <img src="/Assets/img/prof_pic.jpg" alt="drawing" width="200" align = "right"/>
-### He/Him/His 
+# Keanan Anderson (He/Him/His) <img src="/Assets/img/prof_pic.jpg" alt="drawing" width="200" align = "right"/>
 ### Major: Business Information & Analytics
 ### Minors: Computer Science & Mathematics
 #### keanana1@gmail.com || [Resume](Resume%202021%20Updated%201.pdf) || [LinkedIn](https://www.linkedin.com/in/keanan-anderson-curious/)
