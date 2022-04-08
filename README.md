@@ -2,7 +2,7 @@
 ### He/Him/His 
 ### Major: Business Information & Analytics
 ### Minors: Computer Science & Mathematics
-#### Email. [Resume](Resume%202021%20Updated%201.pdf) 
+#### keanana1@gmail.com || [Resume](Resume%202021%20Updated%201.pdf) || [LinkedIn](https://www.linkedin.com/in/keanan-anderson-curious/)
 ##
 ### Who Am I
 Always curious, I entered my college career with wide, longing eyes. Focused on my own experiential learning, growth, and progress, DU provided a perfect continued foundation for developing myself. From my technical learning within the fields of analytics, computer science, and mathematics, combined with my experiential learning and leadership through Undergraduate Student Government, my core competencies have been cultured and challenged. Through my constant curiosity, I took every opportunity to develop my world view and perspective.
