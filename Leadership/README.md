@@ -25,7 +25,7 @@ During my term, the Chancellor of the University of Denver announced the commitm
 
 ### DEI
 
-[Technical Experience](GlobalExperience/)
+[Technical Experience](../GlobalExperience/)
 
 ### Student Wellness & Engagement
 
