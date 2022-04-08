@@ -11,6 +11,7 @@ Withing my curriculum for Business Information and Analytics, I built a database
 
 In this year long course project, my first class covered Visio, Microsoft Access, basic SQL querying, and database construction. As seen below, my ERD Diagram, Access project, and some of my SQL queries. 
 For the second stage, the class focused on building the database through SQL Server Management Studio (SSMS), and Visual Studio. Imaged below are those reports. I have also included 
+
 <img src = "https://user-images.githubusercontent.com/28812295/162328637-d2d6b11d-6e9d-493f-b93b-bf8bc6355c59.png" width = "500" height = "300">
 <img src = "https://user-images.githubusercontent.com/28812295/162328653-48949672-d736-4652-b210-811e7452e282.png" width = "500" height = "300">
 <img src = "https://user-images.githubusercontent.com/28812295/162328677-ac2f5d70-dc10-4451-917e-bc7ddf3c6fba.png" width = "400" height = "350">
