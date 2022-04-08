@@ -31,4 +31,6 @@ Linked here is also
 
 ### Student Wellness & Engagement
 
+Together alongside the Office of Equal Opportunity and Title IX and the HCC, I aided in the construction of a Campus Climate Survey (Released March 2022) to target specifically student’s interactions with issues surrounding Title IX processes, abuse, mental health, and overall wellness. In these interactions, I helped facilitate the student perspective and also used my background in creating and conducting surveys to make each question purposeful and insightful. This data set will be vital in peering in to the highs and lows of DU and target the problem areas. With better data comes better results, and better results lead towards a better DU.
+
 I worked directly with the Director of Campus Safety to promote preventative measures towards drugging and spiking of drinks. Through a mass purchase of NightCap® covers, DU Campus Safety and USG dispersed over 700 NightCaps® and outreached to over 2,000 students in protective measures. This initiative was also in tandem with educational materials to insure the full understanding of the scale and scope of the problem. 
