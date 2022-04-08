@@ -20,9 +20,18 @@ The final culmination of this sequence ended in heightening my understanding of 
 ![PowerBI](https://user-images.githubusercontent.com/28812295/162219236-8e6f12ae-e4a8-4ea3-8278-ab87aa051c37.png)
 
 
+## 
+Being a wildland firefighter, I took a deeper dive into how wildland fire data could be viewed to attempt limiting the cost per fire in using other strategies. Through using Python, I created multiple regression analyses to determine three key questions:
+-	What strategy affects the overall cost of a fire?
+-	Is there a correlation between the number of days a fire burns and it’s cost per acre?
+-	Does the destructiveness of certain causes of wildland fire relate to the cost?
+From these and my regression results, I found very inconclusive results for how to predict the overall cost of a fire and how to minimize it. Unfortunately there are plenty of other factors within wildland fires that contribute to cost. In the future, I would be more deliberate about the variables I use and assuring to have an open mind when collecting data.
+
+<img src = "https://user-images.githubusercontent.com/28812295/162405630-a0e3abbe-566e-472c-ac09-126b2daf04fc.png" align = "center">
 
 
-### Python
+
+## Optimization Modeling Using Python
 
 <img src = "https://user-images.githubusercontent.com/28812295/162224344-be25a927-22ed-41f6-9b37-636fc5ade866.png" width = "301" height = "625" align = "right">
 Using a multitude of python packages, I put together the dream team of fantasy hockey. Using the average points per game per player for the predicting variable, I constructed constraints around it including: team size, positions, average salaries, teams, and variety.
