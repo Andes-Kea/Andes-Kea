@@ -16,3 +16,6 @@ Together with a working group of professionals all over campus, we discussed tan
 
 In this process, I have been able to reflect on my own identity and persona with intention of change—an intention to learn and grow. I only hope that with the implementation of this project, other individuals will be able to reflect, recover, and grow as well. With success seen on other campuses, I am confident that the Healthy Masculinities program will bolster the DU community and its purpose.  
 
+### Capitol Relationships
+
+Within my position I have also had the opportunity of working with the State Capitol on Higher Education matters. Through policy revisions, constituent outreach, and many a meeting, I have developed a broader sense of the inner workings of politics, legislation, and inclusion. Through this process, I have learned how to engage with differing opinions in order to strengthen a proposition. 
