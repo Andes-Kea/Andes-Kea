@@ -10,4 +10,7 @@ Throughout this space I realized the vital importance of other, unique perspecti
  
 ### Healthy Masculinities
 
-Together with a working group of professionals all over campus
+Together with a working group of professionals all over campus, we discussed tangible outcomes for elevating a campus culture of empathy, respect, and safety. The Healthy Masculinities work entailed creating engagement opportunities and a course directed towards male identifying students at DU. The intention of this program is meant to address questions surrounding identity, emotional intelligence, confidence, and awareness. All in efforts to combat “toxic” masculinity or a better phrase, “unhealthy” masculinity.
+
+In this process, I have been able to reflect on my own identity and persona with intention of change—an intention to learn and grow. I only hope that with the implementation of this project, other individuals will be able to reflect, recover, and grow as well. With success seen on other campuses, I am confident that the Healthy Masculinities program will bolster the DU community and its purpose.  
+
