@@ -1,4 +1,4 @@
-The University of Denver developed my technical skills through a variety of unique and challenging courses. From Database Management Systems Sequence to Algorithms and Data Structures, I have been educated in a variety of hard skills and applications.
+The University of Denver developed my technical skills through a variety of unique and challenging courses. From my course sequence of Database Management Systems to Algorithms and Data Structures, I have been educated in a variety of hard skills and applications.
 
 - Coding: Java, Python, VBA, SQL
 -	Data Visualization: Power BI, Tableau, Visio, (Python packages of Seaborn, Matplotlib)
