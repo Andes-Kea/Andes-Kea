@@ -1,12 +1,13 @@
 ## Technical Experience
 The University of Denver developed my technical skills through a variety of unique and challenging courses. From my course sequence of Database Management Systems to Algorithms and Data Structures, I have been educated in a variety of hard skills and applications.
 
-- Coding: Java, Python, VBA, SQL
--	Data Visualization: Power BI, Tableau, Visio, (Python packages of Seaborn, Matplotlib)
+- Applications: SPSS Modeler, JMP, Power Pivot, Power BI, Tableau, Visio
 -	Microsoft: Excel, Access, Word, PowerPoint, Teams
--	Analysis Tools: SPSS Modeler, JMP, Power Pivot
+- Languages: Java, Python, VBA, SQL
 
-### Database Management Systems
+Below I have listed highlighted courses which covered a variety of the applications and skills mentioned above.
+
+## Database Management Systems
 
 In my Database Management Sequence I started off constructing a mock-database for the United States Forest Service (USFS) and their project management. This sequence covered the database lifecycle, from creation to visualization to results. In each phase of the sequence I continued to add new skills to my palette. I began with creating ERD diagrams within Visio and then quickly ramped up the pace to working with Microsoft Access and pieces of SQL querying (Both ERD & Access Reports are seen below)
 <img src = "https://user-images.githubusercontent.com/28812295/162328637-d2d6b11d-6e9d-493f-b93b-bf8bc6355c59.png" width = "500" height = "300"> <img src = "https://user-images.githubusercontent.com/28812295/162328653-48949672-d736-4652-b210-811e7452e282.png" width = "500" height = "300">
@@ -20,7 +21,8 @@ The final culmination of this sequence ended in heightening my understanding of 
 ![PowerBI](https://user-images.githubusercontent.com/28812295/162219236-8e6f12ae-e4a8-4ea3-8278-ab87aa051c37.png)
 
 
-## 
+## Automated Business Processing 
+
 Being a wildland firefighter, I took a deeper dive into how wildland fire data could be viewed to attempt limiting the cost per fire in using other strategies. Through using Python, I created multiple regression analyses to determine three key questions:
 -	What strategy affects the overall cost of a fire?
 -	Is there a correlation between the number of days a fire burns and it’s cost per acre?
