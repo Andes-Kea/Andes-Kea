@@ -25,8 +25,9 @@ During my term, the Chancellor of the University of Denver announced the commitm
 
 ### DEI
 
-[Technical Experience](../GlobalExperience/)
+Linked here is also 
+[Global & Inclusive Competence](../GlobalExperience/)
 
 ### Student Wellness & Engagement
 
-
+I worked directly with the Director of Campus Safety to promote preventative measures towards drugging and spiking of drinks. Through a mass purchase of NightCap® covers, DU Campus Safety and USG dispersed over 700 NightCaps® and outreached to over 2,000 students in protective measures. This initiative was also in tandem with educational materials to insure the full understanding of the scale and scope of the problem. 
