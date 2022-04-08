@@ -19,3 +19,7 @@ In this process, I have been able to reflect on my own identity and persona with
 ### Capitol Relationships
 
 Within my position I have also had the opportunity of working with the State Capitol on Higher Education matters. Through policy revisions, constituent outreach, and many a meeting, I have developed a broader sense of the inner workings of politics, legislation, and inclusion. Through this process, I have learned how to engage with differing opinions in order to strengthen a proposition. 
+
+### Interview 
+
+In filling out Undergraduate Student Government, many interviews were needed to occur to bring on the most qualified and passionate students. This gave me the opportunity to directly interact with countless students for positions ranging from Sophomore Senator to Chief of Staff of the Executive Branch to Executive Secretary of International Students. This broad net allowed my own exposure to grow with the inherent culture at DU, and the students that create it. 
