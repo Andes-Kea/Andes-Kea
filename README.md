@@ -4,10 +4,9 @@
 #### keanana1@gmail.com || [Resume](Resume%202021%20Updated%201.pdf) || [LinkedIn](https://www.linkedin.com/in/keanan-anderson-curious/) || [Strenghts](StrengthInsightGallup.pdf)
 ##
 ### Who Am I
-Always curious, I entered my college career with wide, longing eyes. Focused on my own experiential learning, growth, and progress, DU provided a perfect continued foundation for developing myself. From my technical learning within the fields of analytics, computer science, and mathematics, combined with my experiential learning and leadership through Undergraduate Student Government, my core competencies have been cultured and challenged. Through my constant curiosity, I took every opportunity to develop my world view and perspective.
+Hi there, welcome to my portfolio! My name is Keanan Anderson. I’m from a small town called Pagosa Springs, CO and ventured up north to the University of Denver (DU) in which I am pursuing a degree in Business Information and Analytics with an intended graduation date of June 2022. I currently hold the honor and the position of DU’s Undergraduate Student Body President, fulfilling the student's priorities. 
 
-With an extensive background in leadership, I have built relationships all throughout my life. Focusing on developing my own skillset while giving back to my community, I pursued the role of Undergraduate Student Body President at DU. In this position, I have developed a skillset in how to prioritize, organize, and learn from mistakes all while balancing my pursuit of a degree in Business Information and Analytics and minors in Computer Science and Mathematics.
-
+I am an incredibly curious mind, always looking to challenge myself in any way possible. From my technical learning within the fields of analytics, computer science, and mathematics, combined with my experiential learning and leadership through Undergraduate Student Government, my core competencies have been cultured and challenged. 
 
 
 ### [Technical Experience](TechnicalExperience/)
