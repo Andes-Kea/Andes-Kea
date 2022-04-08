@@ -8,3 +8,6 @@ Working together with a varying array of departments at DU including but not lim
 Throughout this space I realized the vital importance of other, unique perspectives to help develop not only my own world view, but also of those around me. Diverse thought and opinion are vital towards making critical and ethical decisions. Without conflicting opinions or relevant discussion, there is a lack of critical thought and purposeful decisions. In these spaces of engaging with multiple departments, cultures, and ideas, the skill of an open mind is a crucial towards creating an inclusive community and thought. 
 
  
+### Healthy Masculinities
+
+Together with a working group of professionals all over campus
