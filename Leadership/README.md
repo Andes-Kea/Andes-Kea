@@ -1,6 +1,6 @@
 ### Undergraduate Student Government (USG)
 
-My role as the President of the Undergraduate Student Body is to fulfill the priorities of the student body through working across departments, engaging with constituents, and overseeing the operations of USG. 
+My role as the [President of the Undergraduate Student Body](https://duclarion.com/2021/04/keanan-anderson-and-mason-estes-run-for-usg-president-and-vice-president/) is to fulfill the priorities of the student body through working across departments, engaging with constituents, and overseeing the operations of USG. 
 A list including a sample of my responsibilities is included below:
 -	Communicate directly with the Chancellor, Provost, VC of Student Affairs, and other relevant administrators as needed.
 -	Present in front of the Board of Trustees on a quarterly basis.
@@ -11,7 +11,7 @@ A list including a sample of my responsibilities is included below:
 
 
 ### President
-https://duclarion.com/2021/04/keanan-anderson-and-mason-estes-run-for-usg-president-and-vice-president/
+
 
 During the height of the COVID-19 Pandemic, as with everything in the world, problem areas were illuminated and heightened. We began seeing the repercussions everywhere, and my eyes were focused at the University of Denver. With a mental health crisis on the rise, sustainability initiatives on the top of everyone’s tongue and a recent shift to a more inclusive, 4-Dimensional Model, these three pillars spurred my motivation for pursuing the role. 
 
