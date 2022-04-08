@@ -16,3 +16,13 @@ In this role I, alongside my incredible team of fellow Undergraduate Students, h
 Funding structures are also incredibly important and relevant to the student engagement. As President, I have aided in overseeing USG’s one million dollar budget and have advocated heavily to increase this amount. Through working with administration, I aided in approving a fee increase while also increasing student funding initiatives. 
 
 Within this position as President I have been able to reflect, analyze, and truly curate a notion of respect for any form of leadership. 
+
+### Sustainability
+
+
+### DEI
+
+
+### Student Wellness & Engagement
+
+
