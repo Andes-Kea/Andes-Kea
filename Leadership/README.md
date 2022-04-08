@@ -1,6 +1,7 @@
 ### Undergraduate Student Government (USG)
 
-My role as the President of the Undergraduate Student Body is to fulfill the priorities of the student body through working across departments, engaging with constituents, and overseeing the operations of USG. I list including a sample of my responsibilities is included below:
+My role as the President of the Undergraduate Student Body is to fulfill the priorities of the student body through working across departments, engaging with constituents, and overseeing the operations of USG. 
+A list including a sample of my responsibilities is included below:
 -	Communicate directly with the Chancellor, Provost, VC of Student Affairs, and other relevant administrators as needed.
 -	Present in front of the Board of Trustees on a quarterly basis.
 -	Select and appoint members to the Executive Branch as well as any missing positions within the Legislative and or Judicial Branch.
