@@ -23,6 +23,12 @@ When I’m not in class, office, or meetings, I can be found picking up a variet
 
 ### [Global Experience](GlobalExperience/)
 
+### Personal Note
+All aspects of my college career have, especially after taking a larger leadership role, have incorporated critical thinking and ethical practices. It is never something I am or will be perfect at, but as Maya Angelou said, 
+
+“Do the best you can until you know better. Then when you know better, do better.”
+
+I have taken this quote to heart and reflect on it nearly daily. I believe it is incredibly crucial to give the benefit of the doubt in order to give the largest opportunity for growth. During my time at DU, I have been able to reflect, recognize, and reconcile with decisions that I have made, whether bad or good, or just grey. I am now able to operate with more confidence entering the next chapter of my life and I have DU and its opportunities to thank for it.
 
 <!--
 **Andes-Kea/Andes-Kea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
