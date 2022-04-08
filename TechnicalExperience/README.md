@@ -1,3 +1,4 @@
+## Technical Experience
 The University of Denver developed my technical skills through a variety of unique and challenging courses. From my course sequence of Database Management Systems to Algorithms and Data Structures, I have been educated in a variety of hard skills and applications.
 
 - Coding: Java, Python, VBA, SQL
@@ -23,11 +24,11 @@ The final culmination of this sequence ended in heightening my understanding of 
 
 ### Python
 
+<img src = "https://user-images.githubusercontent.com/28812295/162224344-be25a927-22ed-41f6-9b37-636fc5ade866.png" width = "301" height = "625" align = "right">
 Using a multitude of python packages, I put together the dream team of fantasy hockey. Using the average points per game per player for the predicting variable, I constructed constraints around it including: team size, positions, average salaries, teams, and variety.
 
-Here are the outputted teams of the model. Together they represent the Predicted (Left) and Actual (Right). Through this result I concluded that my simple restraints that I proposed limited the validity of the full scope of the project and if I was to construct a more successful, more accurate team, I would need to take a deeper dive into sports analytics.
-
-<img src = "https://user-images.githubusercontent.com/28812295/162224277-6949a6c9-8694-406c-a887-1548b1f958e7.png" width = "650" height = "350"> <img src = "https://user-images.githubusercontent.com/28812295/162224344-be25a927-22ed-41f6-9b37-636fc5ade866.png" width = "301" height = "625">
+Here are the outputted teams of the model. Together they represent the Predicted (Top) and Actual (Bottom). Through this result I concluded that my simple restraints that I proposed limited the validity of the full scope of the project and if I was to construct a more successful, more accurate team, I would need to take a deeper dive into sports analytics.
+<img src = "https://user-images.githubusercontent.com/28812295/162224277-6949a6c9-8694-406c-a887-1548b1f958e7.png" width = "650" height = "350"> 
 
 
 ### Tableau
